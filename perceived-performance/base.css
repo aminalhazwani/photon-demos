@@ -5,11 +5,11 @@ html, body {
   text-align: center;
   font-size: 12px;
   font-family: "Fira Sans", sans-serif;
-  background: #eee;
+  background: #f9f9fa;
 }
 
 body{
-  display:flex;
-  justify-content:center;
-  align-items:center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
